@@ -14,3 +14,5 @@ ruby boris_bikes.rb
 ```
 
 Script does not work yet - file to be made
+
+## Steps ##
